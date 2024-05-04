@@ -12,7 +12,8 @@ This project is a React application that displays an organization tree hierarchy
 https://github.com/sandeep-synswift/react-tailwind-org-tree/blob/master/app/assets/images/org-chart.jpg
 
 ## Technologies Used
-- React.js
+- ReactJs
+- NextJs
 - Tailwind CSS
 
 ## Installation
